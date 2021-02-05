@@ -14,14 +14,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
 
-![Note Taker Demo](/public/assets/img/NoteRecord.png)
+![Note Taker Demo](/public/assets/img/NewNoteRecording.png)
 ![Note Taker Demo](/public/assets/img/CurrentNotes.png)
 ![Note Taker Demo](/public/assets/img/RecordedNote.png)
 
 
 
 ## Installation
-
 With GitHub account, clone or download repository using link. 
 
 
