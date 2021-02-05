@@ -1,7 +1,5 @@
 # noteTaker
 
-
-
 ## Purpose
 This is a GitHub repository for a note taker application. 
 
